@@ -1,0 +1,81 @@
+#bg{
+    background-color: blanchedalmond;
+}
+table{
+    background-color: burlywood;
+    border-radius: 15px;
+    border: 3px solid #73AD21
+}
+#intro{
+    background-color: burlywood;
+    width: fit-content;
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 25px;
+}
+#cg{
+    background-color: burlywood;
+    width: 150%;
+    border-radius: 25px;
+    padding: 20px;
+    border: 2px solid #73AD21;
+}
+#int{
+    background-color: burlywood;
+    width: 80%;
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 25px;
+    height: fit-content;
+}
+#co{
+    border: 2px solid #73ad21;
+    border-radius: 25px;
+    background-color: burlywood;
+    padding: 25px;
+}
+#h{
+    padding: 25px;
+    border: 2px solid #73AD21;
+    border-radius: 25px;
+    background-color: burlywood;
+    width: fit-content;
+}
+#l{
+    padding: 10px;
+    border: 2px solid #73AD21;
+    border-radius: 25px;
+    background-color: burlywood;
+    width: fit-content;
+}
+#lcc{
+    display: flex;
+}
+#cc{
+    margin-right: 7cm;
+    margin-left: 3cm ;
+}
+#ho{
+    margin-left: 1cm;
+}
+#d{
+    margin-left: 1cm;
+    border: 2px solid #73ad21;
+    border-radius: 25px;
+    background-color: burlywood;
+    padding: 25px;
+    width: fit-content;
+}
+#itr{
+    margin-left: 1cm;
+}
+#c{
+    margin-left: 1cm;
+}
+#a{
+    margin-left: 1cm;
+}
+#cards{
+    width: 100%;
+    height: 100%;
+}
